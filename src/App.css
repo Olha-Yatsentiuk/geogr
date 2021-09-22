@@ -1,0 +1,90 @@
+.container {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  width: 100%; 
+  color: black;
+  font-size: 22px;
+  background-color: rgba(226, 226, 9, 0.568);
+  
+  
+}
+
+.face {
+  width: 100%;
+  
+
+}
+
+
+h1 {
+  font-size: 60px;
+  font-family:'Times New Roman', Times, serif;
+  text-shadow: 2px 2px 4px black;
+  color: yellow;
+  
+}
+
+.logo {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 12%;
+}
+
+.info {
+  padding: 30px 100px;
+  overflow: hidden;
+  line-height: 1.5;
+ 
+
+  }
+
+.gallery {
+  width: 400px;
+  border: 2px solid blue;
+  opacity: 0.6;
+ }
+
+.gallery:hover {
+  opacity: 1;
+}
+
+.photos {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+  justify-content: center;
+  margin: auto;
+  width: 100%;  
+ 
+}
+
+.speciality {
+  color: rgb(3, 168, 44);
+  text-shadow: 1px 1px black;
+
+}
+
+.contact {
+  color: red;
+  font-size: 30px;
+  text-shadow: 1px 1px 4px black;
+ 
+
+}
+
+
+@media screen and (max-width: 800px) {
+  .container {
+    font-size: 16px;
+  }
+h1 {
+  font-size: 40px;
+}
+.contact {
+  font-size: 20px;
+}
+}
