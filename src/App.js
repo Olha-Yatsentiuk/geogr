@@ -38,15 +38,15 @@ export default function App() {
         <img class = "gallery" src = "a.jpg" alt = "students"></img>
         <img class = "gallery" src = "b.jpg" alt = "students"></img>
         <img class = "gallery" src = "c.jpg" alt = "students"></img>
-        <img class = "gallery" src = "4.jpg" alt = "students"></img>
-        <img class = "gallery" src = "5.jpg" alt = "students"></img>
-        <img class = "gallery" src = "6.jpg" alt = "students"></img>
-        <img class = "gallery" src = "7.jpg" alt = "students"></img>
-        <img class = "gallery" src = "8.jpg" alt = "students"></img>
-        <img class = "gallery" src = "9.jpg" alt = "students"></img>
-        <img class = "gallery" src = "10.jpg" alt = "students"></img>
-        <img class = "gallery" src = "11.jpg" alt = "students"></img>
-        <img class = "gallery" src = "12.jpg" alt = "students"></img>
+        <img class = "gallery" src = "d.jpg" alt = "students"></img>
+        <img class = "gallery" src = "e.jpg" alt = "students"></img>
+        <img class = "gallery" src = "f.jpg" alt = "students"></img>
+        <img class = "gallery" src = "g.jpg" alt = "students"></img>
+        <img class = "gallery" src = "h.jpg" alt = "students"></img>
+        <img class = "gallery" src = "i.jpg" alt = "students"></img>
+        <img class = "gallery" src = "j.jpg" alt = "students"></img>
+        <img class = "gallery" src = "k.jpg" alt = "students"></img>
+        <img class = "gallery" src = "l.jpg" alt = "students"></img>
 
       </div>
       <p class = "contact">За довідками з питань вступу звертайтесь за телефонами 067-770-78-56; Viber 093-856-39-59 . </p>
