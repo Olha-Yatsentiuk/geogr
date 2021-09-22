@@ -6,7 +6,7 @@ export default function App() {
     <div class = "container">
       <img class = "logo" src = "logo.png" alt = "logo"></img>
       <h1>Кафедра географії </h1>
-      <img class = "face" src = "3.jpg" alt = "face"></img>
+      <img class = "face" src = "c.jpg" alt = "face"></img>
       <div class= "info">
         <p> Шановні випускники, якщо Ви любите подорожувати, запрошуємо Вас на 
           навчання на кафедру географії Вінницького державного педагогічного 
@@ -35,9 +35,9 @@ export default function App() {
       </div>
 
       <div class = "photos">
-        <img class = "gallery" src = "1.jpg" alt = "students"></img>
-        <img class = "gallery" src = "2.jpg" alt = "students"></img>
-        <img class = "gallery" src = "3.jpg" alt = "students"></img>
+        <img class = "gallery" src = "a.jpg" alt = "students"></img>
+        <img class = "gallery" src = "b.jpg" alt = "students"></img>
+        <img class = "gallery" src = "c.jpg" alt = "students"></img>
         <img class = "gallery" src = "4.jpg" alt = "students"></img>
         <img class = "gallery" src = "5.jpg" alt = "students"></img>
         <img class = "gallery" src = "6.jpg" alt = "students"></img>
