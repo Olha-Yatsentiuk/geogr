@@ -6,7 +6,7 @@ export default function App() {
     <div class = "container">
       <img class = "logo" src = "logo.png" alt = "logo"></img>
       <h1>Кафедра географії </h1>
-      <img class = "face" src = "3.jpg" alt = "face"></img>
+      <img class = "face" src = "6.jpg" alt = "face"></img>
       <div class= "info">
         <p> Шановні випускники, якщо Ви любите подорожувати, запрошуємо Вас на 
           навчання на кафедру географії Вінницького державного педагогічного 
@@ -36,15 +36,15 @@ export default function App() {
 
       <div class = "photos">
         <img class = "gallery" src = "1.jpg" alt = "students"></img>
-        <img class = "gallery" src = "2.jpg" alt = "students"></img>
-        <img class = "gallery" src = "3.jpg" alt = "students"></img>
-        <img class = "gallery" src = "4.jpg" alt = "students"></img>
-        <img class = "gallery" src = "5.jpg" alt = "students"></img>
+        <img class = "gallery" src = "1.jpg" alt = "students"></img>
         <img class = "gallery" src = "6.jpg" alt = "students"></img>
-        <img class = "gallery" src = "7.jpg" alt = "students"></img>
-        <img class = "gallery" src = "8.jpg" alt = "students"></img>
+        <img class = "gallery" src = "6.jpg" alt = "students"></img>
         <img class = "gallery" src = "9.jpg" alt = "students"></img>
-        <img class = "gallery" src = "10.jpg" alt = "students"></img>
+        <img class = "gallery" src = "9.jpg" alt = "students"></img>
+        <img class = "gallery" src = "9.jpg" alt = "students"></img>
+        <img class = "gallery" src = "1.jpg" alt = "students"></img>
+        <img class = "gallery" src = "9.jpg" alt = "students"></img>
+        <img class = "gallery" src = "11.jpg" alt = "students"></img>
         <img class = "gallery" src = "11.jpg" alt = "students"></img>
         <img class = "gallery" src = "12.jpg" alt = "students"></img>
 
